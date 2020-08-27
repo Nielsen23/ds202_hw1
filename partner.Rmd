@@ -1,0 +1,26 @@
+---
+title: 'Partner'
+author: "Jeffrey Kinard"
+date: "8/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab 1 Partner Info
+1. **Your (the Partner’s) full name and GitHub username:**  
+  My (the partner's) name is Jeffrey Kinard
+
+2. **What did the Owner do in the most recent commit? What is the commit ID?**  
+  The owner pushed his .Rmd and .html files from the first homework assignment.  
+  The commit id is `748690c`
+
+3. **Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?**  
+  I was able to knit the hw1.Rmd file without error. The html is formatted nicely and everything looks correct.
+
+4. **Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.**  
+  I did not face any issues while completing this assignment. My tip for making git easier is to commit often and use a separate
+  branch as much as possible so that conflicts with other contributer commits only occur during pull requests to master.
+
